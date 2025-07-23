@@ -1,7 +1,3 @@
-Perfeito! Aqui está o `README.md` ajustado com quebras de linha corretas e já apontando para o repositório:
-
----
-
 ````markdown
 # 🚀 Projeto de Testes Automatizados com Cypress + BrowserStack
 
