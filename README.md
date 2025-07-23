@@ -136,7 +136,4 @@ Desenvolvido por [Rafael Suzano Cruz](https://github.com/rafaelsuzano) 🚀
 
 ```
 
----
-
-Se quiser que eu crie esse arquivo automaticamente e envie como download ou commit num branch no repositório, posso te ajudar com isso também. Deseja o arquivo em formato `.md`?
-```
+--
