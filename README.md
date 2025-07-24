@@ -1,9 +1,11 @@
 ````markdown
 # 🚀 Projeto de Testes Automatizados com Cypress + BrowserStack
 
-Este repositório contém a estrutura de testes automatizados utilizando [Cypress](https://www.cypress.io/) integrada à [BrowserStack](https://www.browserstack.com/) para execução em múltiplos navegadores na nuvem.
+Este repositório contém a estrutura de testes automatizados utilizando [Cypress](https://www.cypress.io/)
+integrada à [BrowserStack](https://www.browserstack.com/) para execução em múltiplos navegadores na nuvem.
 
-**Repositório:** [github.com/rafaelsuzano/DemoCypressBrowserStack](https://github.com/rafaelsuzano/DemoCypressBrowserStack.git)
+**Repositório:** [github.com/rafaelsuzano/DemoCypressBrowserStack]
+(https://github.com/rafaelsuzano/DemoCypressBrowserStack.git)
 
 ---
 
