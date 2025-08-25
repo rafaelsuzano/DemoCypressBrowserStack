@@ -1,4 +1,4 @@
-# 🌐 BrowserStack + Cypress: O Guia Definitivo Completo
+# 🌐 BrowserStack + Cypress
 
 *Ei, QA! Já imaginou rodar seus testes do Cypress em 2000+ navegadores e dispositivos reais? Hoje vou te mostrar como dominar o BrowserStack do zero ao avançado! 🚀*
 
