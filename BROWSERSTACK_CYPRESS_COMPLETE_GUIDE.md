@@ -54,8 +54,8 @@ browserstack-cypress --help
 ```json
 {
   "auth": {
-    "username": "rafaelsuzano_uS8mI3",
-    "access_key": "AUvjU7qJCqSmzJaHfh6Y"
+    "username": "",
+    "access_key": ""
   },
   "run_settings": {
     "cypress_config_file": "./cypress.config.js"
