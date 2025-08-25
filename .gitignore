@@ -1,0 +1,6 @@
+browserstack.json
+package-lock.json
+results/
+node_modules/
+npm_install_debug.log
+package-lock.json
